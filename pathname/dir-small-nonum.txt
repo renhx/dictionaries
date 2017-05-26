@@ -101875,3 +101875,13 @@ zzzzzz
 ~webcash
 ~webstats
 ~wsdocsaccept
+index_1.php
+index_2.php
+index_3.php
+index_4.php
+index_5.php
+index_01.php
+index_02.php
+index_03.php
+index_04.php
+index_05.php
